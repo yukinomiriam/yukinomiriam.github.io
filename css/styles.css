@@ -1,0 +1,26 @@
+.video-container{
+    padding-top: 40px;
+    margin-left: 35%;
+  }
+  
+  .grid-content{
+    grid-area: content;
+  
+  }  
+  .grid-header {
+    grid-area: header;
+  }
+
+  .grid-wrapper{
+    display: grid;
+    grid-gap: 25px;
+    grid-template-columns: 1fr;
+    grid-template-areas:
+    'header'
+    'content'
+  }
+
+  .subheader-content{
+    width:100%;
+    margin : 0; 
+  }
