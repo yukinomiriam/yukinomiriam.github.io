@@ -24,3 +24,14 @@
     width:100%;
     margin : 0; 
   }
+
+.view-code-button{
+  padding-top: 10px;
+  margin-left: 90px;
+}
+
+.skill-icon{
+  background-color: #fff;
+  color: #630097;
+
+}
