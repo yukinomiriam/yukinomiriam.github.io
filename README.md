@@ -8,6 +8,7 @@ CONTENTS OF THIS FILE
  * How to Run
  * Roadmap of future improvements
  * Maintainers
+ * License
  
  INTRODUCTION
 ------------
@@ -30,3 +31,7 @@ MAINTAINERS
 ------------
 This project is maintained by Miriam Bade.
 For any questions, you can reach out to me by email: yukinomiriam@gmail.com.
+
+LICENSE
+------------
+[MIT License](https://github.com/yukinomiriam/yukinomiriam.github.io/blob/main/LICENSE)
